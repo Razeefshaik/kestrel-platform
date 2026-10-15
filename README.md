@@ -7,3 +7,5 @@ Online Boutique demo (Apache 2.0); `webhookingress` and `refundworker` are ficti
 Decisions live in `adr/`. Each ADR declares the guarantees it provides, the guarantees it relies on,
 and the assumptions those guarantees require. Checkable assumptions are predicates over facts listed in
 `facts.yaml`. Manual assumptions carry an attestation by a person, with a review date.
+
+Typo fix.
