@@ -1,7 +1,7 @@
 # Paylane's published delivery policy, mirrored from their API reference.
 partner: paylane
 retry:
-  window_hours: 24
+  window_hours: 72
   backoff: exponential
 delivery:
   timeout_ms: 5000
